@@ -21,3 +21,14 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+
+.container {
+display: flex;
+justify-content: flex-start;
+height: 10px;
+}
+.item {
+background-color: white;
+color: black;
+padding: 10px;
+}
